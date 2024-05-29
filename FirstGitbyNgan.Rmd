@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Data analysis
+# Thu thay doi ten xem co doi o R khong
 We provide here some basic elements about the data set and descriptive statistics on some variables of interest.  
 
 * First we load the data
